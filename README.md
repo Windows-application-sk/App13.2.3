@@ -1,9 +1,10 @@
 # App13.2.3
-Visual C++ 2022 ƒp[ƒtƒFƒNƒgƒ}ƒXƒ^[ 
-13.2.3Í‚æ‚è 
+Visual C++ 2022 ãƒ‘ãƒ¼ãƒ•ã‚§ã‚¯ãƒˆãƒžã‚¹ã‚¿ãƒ¼ 
+13.2.3ç« ã‚ˆã‚Š 
  
-Button‚ð”z’u‚µ‚ÄƒCƒxƒ“ƒgƒnƒ“ƒhƒ‰[‚ðì¬‚·‚éƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚Å‚·B 
- 
+Buttonã‚’é…ç½®ã—ã¦ã‚¤ãƒ™ãƒ³ãƒˆãƒãƒ³ãƒ‰ãƒ©ãƒ¼ã‚’ä½œæˆã™ã‚‹ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã§ã™ã€‚ 
+ <img width="952" alt="App13_2_3" src="https://github.com/user-attachments/assets/1e43c08b-d4dc-45c2-8fb1-7b87850de947" />
+
 # Version
-Microsoft Visual Studio Community 2022 (64 ƒrƒbƒg) Version 17.10.5
+Microsoft Visual Studio Community 2022 (64 ãƒ“ãƒƒãƒˆ) Version 17.10.5
 
